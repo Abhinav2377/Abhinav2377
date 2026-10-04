@@ -1,7 +1,18 @@
+# 💫 Hi 👋, I'm Abhinav Khomane
+** MCA Student || Aspiring Software Developer || India
+
+
+- 🔭 **I’m currently working on: Building my programming fundamentals and small coding projects  
+- 🌱 **I’m currently learning: Python and Data Structures & Algorithms (DSA)
+- 👯 **I’m looking to collaborate on: Beginner-friendly coding and web development projects
+- 🤔 **I’m looking for help with: Improving my problem-solving and DSA skills
+- 💬 **Ask me about: Python, DSA, and my learning journey 
+- ⚡ **Fun fact: I'm always curious to learn new technologies and build somethings with what I learn
+
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinav_khomane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhinav Khomane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavkhomane10@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinav_khomane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-khomane-101780370) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
