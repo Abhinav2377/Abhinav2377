@@ -2,12 +2,12 @@
 ** MCA Student || Aspiring Software Developer || India
 
 
-- 🔭 **I’m currently working on: Building my programming fundamentals and small coding projects  
-- 🌱 **I’m currently learning: Python and Data Structures & Algorithms (DSA)
-- 👯 **I’m looking to collaborate on: Beginner-friendly coding and web development projects
-- 🤔 **I’m looking for help with: Improving my problem-solving and DSA skills
-- 💬 **Ask me about: Python, DSA, and my learning journey 
-- ⚡ **Fun fact: I'm always curious to learn new technologies and build somethings with what I learn
+- 🔭 I’m currently working on: Building my programming fundamentals and small coding projects  
+- 🌱 I’m currently learning: Python and Data Structures & Algorithms (DSA)
+- 👯 I’m looking to collaborate on: Beginner-friendly coding and web development projects
+- 🤔 I’m looking for help with: Improving my problem-solving and DSA skills
+- 💬 Ask me about: Python, DSA, and my learning journey 
+- ⚡ Fun fact: I'm always curious to learn new technologies and build somethings with what I learn
 
 
 
